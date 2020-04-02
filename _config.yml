@@ -5,13 +5,21 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   working on  Epigenetics | Bioinformatics | Transposons | Metagenomics | Algae | Chlamydomonas 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/andre-holzer-gatescambridge">LinkedIn Profile</a> 
   <br>
-  ORCID iD https://orcid.org/0000-0002-1825-0097
+  <a href="https://orcid.org/0000-0003-2439-6364">ORCID iD</a> 
   <br>
-  https://www.plantsci.cam.ac.uk/directory/holzer-andre
+  <a href="https://twitter.com/andreholzer?lang=en">Twitter Profile</a> 
   <br>
-  google scholor
+  <a href="">GitHub Profile</a> 
+  
+  <a href="https://www.gatescambridge.org/members-area/connect/directory/scholar/9642">
+    <img alt="Qries" src="https://cdn5.euraxess.org/sites/default/files/styles/news_and_events_details/public/news/gates-cambridge.png?itok=ShiS8eOZ">
+  </a>
+  
+  <a href="https://www.plantsci.cam.ac.uk/directory/holzer-andre">
+    <img alt="Qries" src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg">
+  </a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
