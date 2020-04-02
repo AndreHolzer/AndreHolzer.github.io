@@ -1,11 +1,16 @@
-title: Andre Holzer's Github # your name (or website title) here
+#title: Andre Holzer's Github # your name (or website title) here
 logo: "/images/Andre_Holzer-01.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD Candidate @ Univeristy of Cambridge & Gates Cam Scholar 
+  <br><br>
+  working on:
   <br>
-  working on Epigenetics |Bioinformatics |Transposons | Metagenomics | Algae | Chlamydomonas 
-  <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Epigenetics | Bioinformatics | Transposons | Metagenomics | Algae | Chlamydomonas 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">LinkedIn Profile</a> 
+  ORCID iD https://orcid.org/0000-0002-1825-0097
+  https://www.plantsci.cam.ac.uk/directory/holzer-andre
+  google scholor
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
