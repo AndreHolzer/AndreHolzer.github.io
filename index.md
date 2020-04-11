@@ -4,7 +4,7 @@
 
 ### New repositories
 
-[MetaPLMA](/MetaPLMA)
+[**MetaPLMA**](/MetaPLMA)
 
 Metabolite Peak List Merge & Annotation Tool: A platform independent R tool to merge and annotate metabolite-peak data from GC/MS runs.
 
@@ -13,14 +13,14 @@ Metabolite Peak List Merge & Annotation Tool: A platform independent R tool to m
 <img src="images/MetaPLM-workflow.png?raw=true"/>
 
 ---
-[PuntSeq](/PuntSeq)
+[**PuntSeq**](/PuntSeq)
 
 PuntSeq - Chasing the microbial diversity of Cambridge's freshwater
 
 ![Type](https://img.shields.io/badge/Type-Project-red.svg) ![Scripting](https://img.shields.io/badge/Language-Bash & Python & R-red.svg) ![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg)[![DOI](https://img.shields.io/badge/DOI-10.1101/2020.02.06.936302-blue.svg)](https://doi.org/10.1101/2020.02.06.936302)<img src="images/figure2.png?raw=true"/>
 
 ---
-[IGV-Genomes](http://example.com/)
+[**IGV-Genomes**](http://example.com/)
 
 Repository of assembled reference genomes of the green model alga Chlamydomonas reinhardtii including files optimised for visualisation in IGV
 
