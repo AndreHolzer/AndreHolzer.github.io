@@ -11,19 +11,24 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://twitter.com/andreholzer?lang=en">Twitter Profile</a> 
   <br>
-  <a href="https://github.com/AndreHolzer">GitHub Profile</a> 
-
+  <a href="">GitHub Profile</a> 
+  
   <ul class="social-icons">
-    <li><a href="https://www.linkedin.com/in/andre-holzer-gatescambridge"><img src="/images/Linkedin_1.png" /></a></li>
-    <li><a href="https://orcid.org/0000-0003-2439-6364"><img src="/images/ORCID-iD_icon-64x64.png" /></a></li>
-    <li><a href="https://twitter.com/andreholzer?lang=en"><img src="/images/Twitter_1.png" /></a></li>
-    <li><a href="https://github.com/AndreHolzer"><img src="/images/Github_1.png" /></a></li>
+    <li><a href="http://www.facebook.com"><img src='path_to_your_image' /></a></li>
+    <li><a href="http://www.twitter.com"><img src='path_to_your_image' /></a></li>
+    <li><a href="http://www.youtube.com"><img src='path_to_your_image' /></a></li>
   </ul>
- 
- <a href="https://www.gatescambridge.org/members-area/connect/directory/scholar/9642">
- <img alt="Qries" src="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/31562251_243549129544807_5177695355878476224_n.png?_nc_cat=111&_nc_sid=85a577&_nc_ohc=-n5hsgSmDbgAX_dxi0t&_nc_ht=scontent-frx5-1.xx&oh=f6732eb123eae8dbbaaf2dd8e1870397&oe=5EA9CFA1"></a>
- 
- <a href="https://www.gatescambridge.org/members-area/connect/directory/scholar/9642">  <img alt="Qries" src="https://aas.princeton.edu/sites/aas/files/styles/pwds_featured_image/public/events/gates_cambridge_logo_0.png?itok=vKhWSzGL">   </a>    
-
+  
+  
+  <a href="https://www.plantsci.cam.ac.uk/directory/holzer-andre">
+    <img alt="Qries" src="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/31562251_243549129544807_5177695355878476224_n.png?_nc_cat=111&_nc_sid=85a577&_nc_ohc=-n5hsgSmDbgAX_dxi0t&_nc_ht=scontent-frx5-1.xx&oh=f6732eb123eae8dbbaaf2dd8e1870397&oe=5EA9CFA1">
+  </a>
+  
+  <a href="https://www.gatescambridge.org/members-area/connect/directory/scholar/9642">
+    <img alt="Qries" src="https://aas.princeton.edu/sites/aas/files/styles/pwds_featured_image/public/events/gates_cambridge_logo_0.png?itok=vKhWSzGL">
+  </a>
+  
+  
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
