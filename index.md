@@ -36,12 +36,8 @@ Repository of assembled reference genomes of the green model alga Chlamydomonas 
 
 - Bunbury F, Helliwell KH, Mehrshahi P, Davey MP, Salmon D, **Holzer A**, Smirnoff N, Smith AG (2020) [Physiological and molecular responses of a newly evolved auxotroph of Chlamydomonas to B12 deprivation](https://www.biorxiv.org/content/10.1101/836635v1). *Plant Physiology* 1-20. doi: 10.1101/836635
 
-- **Holzer A** (2019). The Chlamydomonas reference genomes for visualisation in IGV (Version v1.0). *Zenodo*. http://doi.org/10.5281/zenodo.3732212
+- **Holzer A** (2019). The Chlamydomonas reference genomes for visualisation in IGV (Version v1.0). *Zenodo*. [doi: 10.5281/zenodo.3732212](http://doi.org/10.5281/zenodo.3732212)
 
   
-
----
-
-
 
 ---
