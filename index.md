@@ -8,14 +8,20 @@
 
 Metabolite Peak List Merge & Annotation Tool: A platform independent R tool to merge and annotate metabolite-peak data from GC/MS runs.
 
-![Type](https://img.shields.io/badge/Type-Software-red.svg)![Scripting](https://img.shields.io/badge/Language-R-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Current Version](https://img.shields.io/badge/Version-v1.0-blue.svg)
+![Type](https://img.shields.io/badge/Type-Software-red.svg) ![Scripting](https://img.shields.io/badge/Language-R-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg)
 
-</br><img src="https://raw.githubusercontent.com/AndreHolzer/MetaPLMA/master/images/MetaPLM-workflow.png?raw=true" height=350/>
+
+
+<img src="https://raw.githubusercontent.com/AndreHolzer/MetaPLMA/master/images/MetaPLM-workflow.png?raw=true" height=350/>
 
 ---
 [PuntSeq](/PuntSeq)
 
-PuntSeq - Chasing the microbial diversity of Cambridge's freshwater<img src="https://raw.githubusercontent.com/AndreHolzer/PuntSeq/master/figure2.png" hight=350/>
+PuntSeq - Chasing the microbial diversity of Cambridge's freshwater
+
+![Type](https://img.shields.io/badge/Type-Project-red.svg) ![Scripting](https://img.shields.io/badge/Language-Bash & Python & R-red.svg) ![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg)[![DOI](https://img.shields.io/badge/DOI-10.1101/2020.02.06.936302-blue.svg)(https://doi.org/10.1101/2020.02.06.936302)]
+
+<img src="https://raw.githubusercontent.com/AndreHolzer/PuntSeq/master/figure2.png" hight=350/>
 
 ---
 [IGV-Genomes](http://example.com/)
