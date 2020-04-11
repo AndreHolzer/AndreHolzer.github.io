@@ -24,7 +24,7 @@ PuntSeq - Chasing the microbial diversity of Cambridge's freshwater
 
 Repository of assembled reference genomes of the green model alga Chlamydomonas reinhardtii including files optimised for visualisation in IGV
 
-![Type](https://img.shields.io/badge/Type-Dataset-red.svg)[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](CC-BY-SA-4.0_License.txt)![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732212.svg)](https://doi.org/10.5281/zenodo.3732212)<img src="images/IGV-Genomes.png?raw=true"/>
+![Type](https://img.shields.io/badge/Type-Dataset-red.svg) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](CC-BY-SA-4.0_License.txt) ![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732212.svg)](https://doi.org/10.5281/zenodo.3732212)<img src="images/IGV-Genomes.png?raw=true"/>
 
 
 
